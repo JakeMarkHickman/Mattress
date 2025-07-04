@@ -32,4 +32,6 @@ namespace Mattress
         Mattress::PhysicsIntergration m_IntergrationMethod;
 
     };
+
+    using PhysicsWorld = TuftingWorld;
 }
